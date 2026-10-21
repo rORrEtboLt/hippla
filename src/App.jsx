@@ -2,6 +2,7 @@ import { NavLink, Route, Routes } from 'react-router-dom'
 import Home from './pages/Home.jsx'
 import Contact from './pages/Contact.jsx'
 import Gallery from './pages/Gallery.jsx'
+import { Margins, Valley } from './Decor.jsx'
 
 const tabs = [
   { to: '/', label: 'Home' },
@@ -12,6 +13,7 @@ const tabs = [
 export default function App() {
   return (
     <div className="site">
+      <Margins />
       <header className="header">
         <NavLink to="/" className="brand" aria-label="Hippla home">
           <img src="/hippla-logo.png" alt="Hippla" />
@@ -34,6 +36,7 @@ export default function App() {
         </Routes>
       </main>
 
+      <Valley />
       <footer className="footer">
         Hippla Estate · Chikmagalur, Karnataka · Est. 1916
       </footer>
