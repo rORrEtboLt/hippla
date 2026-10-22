@@ -49,11 +49,15 @@ export default function Home() {
         <h2>The village</h2>
         <p>
           Hippla is also the name of our village, deep in the valley under Chandradrona
-          Parvatha, in what is now the Bhadra Tiger Reserve. It had paddy fields, coffee,
-          pepper, a primary school and 264 people in the 1971 census. In the early 2000s,
-          79 families of Hippla left the valley and were resettled at M.C. Halli and at
-          Kelagur, near Handi, so the forest could keep its own. A stream in the reserve,
-          the Hiplahalla, still carries the village’s name.
+          Parvatha. Families lived and farmed there for generations: paddy in
+          the low fields, coffee and pepper under the forest, and a school whose foundation
+          stone reads 1916.
+        </p>
+        <p>
+          The valley is now part of the Bhadra Tiger Reserve. In the early 2000s the 79
+          families of Hippla left their homes and were resettled at M.C. Halli and at
+          Kelagur, near Handi, carrying the bricks and timber of their houses out of the
+          forest. A stream in the reserve, the Hiplahalla, still carries the village’s name.
         </p>
       </section>
     </>

@@ -14,8 +14,8 @@ const coffees = [
   },
   {
     roaster: 'Blue Tokai Coffee Roasters',
-    city: 'Partner farm',
-    name: 'Hippla Estate',
+    city: 'New Delhi',
+    name: 'Hippla Estate, partner farm',
     details: 'Arabica & Robusta · Galigudde, Kalavese, Dinnekere',
     notes: null,
     when: null,
