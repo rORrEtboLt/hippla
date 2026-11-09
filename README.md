@@ -9,5 +9,4 @@ npm install
 npm run dev
 ```
 
-- Pages are in `src/pages/` (Home, Contact, Gallery).
-- To add a coffee to the Gallery, add an entry to the `coffees` list in `src/pages/Gallery.jsx`.
+- Pages are in `src/pages/` (Home, Contact).
